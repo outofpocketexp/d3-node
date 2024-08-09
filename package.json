@@ -22,7 +22,7 @@
   "author": "Brad Oyler <bradoyler@gmail.com> (github.com/bradoyler)",
   "license": "MIT",
   "dependencies": {
-    "d3": "^7.6.1",
+    "d3": "^7.9.0",
     "jsdom": "^16.7.0"
   },
   "devDependencies": {
@@ -32,7 +32,7 @@
     "eslint-plugin-node": "^10.0.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
-    "mocha": "^7.2.0",
+    "mocha": "10.1.0",
     "svg2png": "4.1.1",
     "topojson": "^1.6.27"
   },
